@@ -4,13 +4,11 @@ description: Layout은 디자인의 목적에 맞게 UI 구성 요소와 콘텐�
 
 # Layout Grid
 
- GS SHOP의  UI 구성 요소와 콘텐츠 구조와 배열을 결정하는 기본 규칙이다. 
+GS SHOP의 UI 구성 요소와 콘텐츠 구조와 배열을 결정하는 기본 규칙이다.
 
 ## Resources
 
 GS SHOP Layout Grid Templete
-
-{% file src="../.gitbook/assets/gsshop-grid-templete.sketch" %}
 
 ## **그리드** **시스템의** **장점**
 
@@ -24,15 +22,15 @@ GS SHOP Layout Grid Templete
 
 #### **디자에 통일성을 주는 수단이 된다.**
 
-일반적으로 여러 페이지로 이루어진 레이아웃의 경우 자칫하면 페이지마다 통일성이 떨어져 보일 수가 있다.  이러한 상황을 피하기 위해 고민하는데 그리드 시스템을 잘 활용한다면 전체적인 통일감을 유지할 수 있다.
+일반적으로 여러 페이지로 이루어진 레이아웃의 경우 자칫하면 페이지마다 통일성이 떨어져 보일 수가 있다. 이러한 상황을 피하기 위해 고민하는데 그리드 시스템을 잘 활용한다면 전체적인 통일감을 유지할 수 있다.
 
 ## **Base Grid**
 
-그리드\(Grid\)란 사전적으론 격자, 바둑판의 눈금을 의미하며 디자인에서는 디자인 영역을 일정하게 구획하는 것을 의미한다. 격자 상태의 가이드 라인이라고 생각하면 된다. 
+그리드\(Grid\)란 사전적으론 격자, 바둑판의 눈금을 의미하며 디자인에서는 디자인 영역을 일정하게 구획하는 것을 의미한다. 격자 상태의 가이드 라인이라고 생각하면 된다.
 
 GS SHOP 그리드의 기본 단위는 8px이다. 요소의 크기와 거리는 항상 8의 배수인 8 : 16, 24, 32, 40, 48로 Maggins\(여백\)과 Padding과 함께 열\(Row\), 행\(Column\), 상자의 크기를 구성한다. 또한 페이지 내 요소간의 간격 및 위치 지정을 정의 할 때도 8px의 배수를 사용한다. 필요한 경우 4px를 사용하여 더 미세 조정 된 조정을 한다.
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2883%29.png)
 
 페이지 요소의 크기를 조정하고 간격을 늘릴때 8px씩 증가시킨다. 높이나 너비, 여백 또는 패딩도 8px씩 증가시켜 디자인 한다.
 
@@ -40,46 +38,37 @@ GS SHOP 그리드의 기본 단위는 8px이다. 요소의 크기와 거리는 �
 
 레이아웃 그리드는 Column, Gutters, Margins 세가지 요소로 구성된다.
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28184%29.png)
 
 ### Columns
 
-실제로 컨텐츠를 포함하는 부분은 칼럼이라고 한다. 콘텐츠를 가로로 정렬하는 안내선이라고 이해하면 된다.칼럼의 넓이는 화면의 크기 변화에 따라 가변적이다. 안드로이드의 360dp크기 화면과  iPhone 8의 375pt 크기 화면에서 4개의 컬럼을 사용한다.
+실제로 컨텐츠를 포함하는 부분은 칼럼이라고 한다. 콘텐츠를 가로로 정렬하는 안내선이라고 이해하면 된다.칼럼의 넓이는 화면의 크기 변화에 따라 가변적이다. 안드로이드의 360dp크기 화면과 iPhone 8의 375pt 크기 화면에서 4개의 컬럼을 사용한다.
 
-![&#xC548;&#xB4DC;&#xB85C;&#xC774;&#xB4DC;&#xC640; iOS &#xBAA8;&#xBC14;&#xC77C; &#xD50C;&#xB7AB;&#xD3FC;&#xC758; &#xAE30;&#xBCF8; &#xD654;&#xBA74; &#xD06C;&#xAE30;&#xC5D0;&#xC11C;&#xB294; 4&#xAC1C;&#xC758; &#xCEEC;&#xB7FC;&#xC744; &#xC0AC;&#xC6A9;&#xD55C;&#xB2E4;.](../.gitbook/assets/image%20%28125%29.png)
+![&#xC548;&#xB4DC;&#xB85C;&#xC774;&#xB4DC;&#xC640; iOS &#xBAA8;&#xBC14;&#xC77C; &#xD50C;&#xB7AB;&#xD3FC;&#xC758; &#xAE30;&#xBCF8; &#xD654;&#xBA74; &#xD06C;&#xAE30;&#xC5D0;&#xC11C;&#xB294; 4&#xAC1C;&#xC758; &#xCEEC;&#xB7FC;&#xC744; &#xC0AC;&#xC6A9;&#xD55C;&#xB2E4;.](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28125%29.png)
 
 ### Gutters
 
 거터는 칼럼과 칼럼사이의 공간이다. 1개 이상의 칼럼이 조합된 컨텐츠 사이의 간격이 된다. Columns의 너비는 변경되더라도 커터의 넓이는 변경되지 않는다. 화면의 크기와 요소의 배치에 따라 커터의 크기를 따로 지정해서 사용한다. 모바일의 기본 커터 크기는 16 px이고 화면이 넓어지면 커터의 넓이도 넓어진다.
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2891%29.png)
 
 ### **Margins**
 
 Margin은 화면의 왼쪽 및 오른쪽 가장자리 사이의 공간이다. 콘텐츠와 UI요소는 마진을 넘어서서 레이아웃 하지 않는다. 마진의 크기는 화면의 크기가 커질 수록 커진다. 안드로이드의 모바일 브레이크 포인트 인 360dp와 iPhone 8의 375pt 크기에서 마진은 16 px를 사용한다.
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2888%29.png)
 
-  
 **iPhone X Safe Area Layout Guides**
 
 iPhone X를 디자인 할 때 둥근 모서리와 노치로 콘텐츠가 잘릴 수 있다. 이는 항상 피해야합니다. 안전 영역 레이아웃 가이드를 사용하면 노치가 없는 위치로 콘텐츠를 넣을 수 있어 잘리는 현상이 발생하지 않는다. 일반적으로 배경은 안전 영역 가이드를 따르지 않아도 되지만 텍스트, 이미지 및 버튼과 같은 콘텐츠는 이 가이드를 따라야 한다. 기본 Margin은 좌우 16px이고 노치 영역은 44px이고 하단의 홈 인디케이터도 34px이다.
 
-![](../.gitbook/assets/image%20%2862%29.png)
-
-
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2862%29.png)
 
 ### **Breakpoints**
 
 GS SHOP은 데스크탑, 타블렛, 모바일 등 다양한 디바이스와 다양한 화면 크기에서 서비스를 제공한다. 화면의 크기와 상관없이 일관된 사용자 경험을 제공하기 위해 화면에 최적화된 반응형 레이아웃을 제공하기 위해 Breakpoint를 설정한다. Breakpoint는 미리 결정된 화면 크기의 범위이다. 주어진 중단 점 범위에서 화면 크기와 방향에 맞게 레이아웃이 조정된다. 반응형 레이아웃에서 화면 크기에 관계없이 레이아웃 일관성을 유지하기 위해 브레이크포인트를 설정한다. 최상의 결과를 얻으려면 각 표준 중단 점에서 디자인과 코드를 테스트해야 한다.
 
-미디어 쿼리와 CSS 규칙을 작성하여 특수한 요구를 수용 할 수있는 사용자 정의 Breakpoint을 만든다.  
+미디어 쿼리와 CSS 규칙을 작성하여 특수한 요구를 수용 할 수있는 사용자 정의 Breakpoint을 만든다.
 
-![&#xD654;&#xBA74;&#xC758; &#xD06C;&#xAE30;&#xC5D0; &#xB530;&#xB77C; &#xCEEC;&#xB7FC;&#xC758; &#xC218;&#xB294; &#xB2EC;&#xB77C;&#xC9C4;&#xB2E4;.](../.gitbook/assets/image%20%28100%29.png)
-
-
-
-
-
-
+![&#xD654;&#xBA74;&#xC758; &#xD06C;&#xAE30;&#xC5D0; &#xB530;&#xB77C; &#xCEEC;&#xB7FC;&#xC758; &#xC218;&#xB294; &#xB2EC;&#xB77C;&#xC9C4;&#xB2E4;.](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28100%29.png)
 

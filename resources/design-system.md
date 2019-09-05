@@ -2,11 +2,11 @@
 
 ## Benefits of a Design System
 
-1. \*\*Provide a single source of truth for building UIs  
+1. \*\*Provide a single source of truth for building UIs
 
    -\*\* UI 구축을 위한 단일한 소스 제공
 
-2. **Save time and money**  
+2. **Save time and money**
 3. 구축 비용과 시간 절약
 4. I**ncrease consistency** - 
 5. 일관성 향상
@@ -30,7 +30,7 @@
 * Interaction
 * Navigation
 
-![](../.gitbook/assets/untitled-94c928d2-7982-4595-b147-ad05f359121f.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/untitled-94c928d2-7982-4595-b147-ad05f359121f.png)
 
 [접근성 관련 자료 모음 Accessibility](https://www.notion.so/bb411d583e36450890ab96e548de0aae)
 
@@ -40,15 +40,15 @@
 
 **Google Material Design Guide 2.0**
 
-{% embed url="https://material.io/" %}
+{% embed url="https://material.io/" caption="" %}
 
 **Human Interface Guidelines \(한글 번역페이지\)**
 
-{% embed url="https://miniring.gitbook.io/hig/" %}
+{% embed url="https://miniring.gitbook.io/hig/" caption="" %}
 
 **Human Interface Guidelines \(애플 공식\)**
 
-{% embed url="https://developer.apple.com/design/\#HIG" %}
+{% embed url="https://developer.apple.com/design/\#HIG" caption="" %}
 
 ## Design System
 

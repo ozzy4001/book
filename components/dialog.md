@@ -6,15 +6,15 @@ description: >-
 
 # Dialogs
 
-### **Alert**
+## **Alert**
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28175%29.png)
 
-### **Confirmation**
+## **Confirmation**
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2860%29.png)
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2831%29.png)
 

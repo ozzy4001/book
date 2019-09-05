@@ -4,25 +4,25 @@
 
 색채 color는 사용자 인터페이스에서 중요한 시각적이고 기능적인 요소이다. 또한 브랜드 정체성을 표현하고 앱의 스타일을 결정하는 가장 중요한 요소 중 하나이다.
 
-색채는 사용자에게 상호작용 요소를 직관적으로 이해시킨다. 버튼 같은 컨트롤에 고유의 색을 부여하고 앱의 전체 화면에 일관성 있게 사용하여 시선을 집중시키고 행동을 유도할 수 있다. 
+색채는 사용자에게 상호작용 요소를 직관적으로 이해시킨다. 버튼 같은 컨트롤에 고유의 색을 부여하고 앱의 전체 화면에 일관성 있게 사용하여 시선을 집중시키고 행동을 유도할 수 있다.
 
-## Primary color palette **** <a id="ColorSystem-Colorpalete"></a>
+## Primary color palette _\*\*_ <a id="ColorSystem-Colorpalete"></a>
 
 다음 컬러는 GS SHOP의 브랜드 컬러이다. Leaf green 을 primery color이고 Sunset Pink 가 Secondary color 이다.
 
-기본 팔레트는 흰색 및 Leaf Green, Sunset Pink , Gray 로 구성된다.  이러한 색상은 마케팅에서 제품에 이르기까지 대부분의 터치 포인트에서 사용된다. Leaf green 400과 Sunset Pink 500 기본 동작 및 버튼, 링크, 진행 상태 표시 사용합다. Gray 900은 주로 본문 및 제목에 사용되며 White는 페이지 배경에 사용된다.
+기본 팔레트는 흰색 및 Leaf Green, Sunset Pink , Gray 로 구성된다. 이러한 색상은 마케팅에서 제품에 이르기까지 대부분의 터치 포인트에서 사용된다. Leaf green 400과 Sunset Pink 500 기본 동작 및 버튼, 링크, 진행 상태 표시 사용합다. Gray 900은 주로 본문 및 제목에 사용되며 White는 페이지 배경에 사용된다.
 
-![Leaf Green &#xC740; GS SHOP&#xC758; &#xBE0C;&#xB79C;&#xB4DC; &#xCEEC;&#xB7EC;&#xC774;&#xB2E4;. &#xC81C;&#xD488; &#xC804;&#xBC18;&#xC801;&#xC73C;&#xB85C; &#xC0AC;&#xC6A9;&#xD558;&#xC5EC; &#xBE0C;&#xB79C;&#xB4DC;&#xB97C; &#xBC18;&#xC601;&#xD55C;&#xB2E4;.](../.gitbook/assets/image%20%2838%29.png)
+![Leaf Green &#xC740; GS SHOP&#xC758; &#xBE0C;&#xB79C;&#xB4DC; &#xCEEC;&#xB7EC;&#xC774;&#xB2E4;. &#xC81C;&#xD488; &#xC804;&#xBC18;&#xC801;&#xC73C;&#xB85C; &#xC0AC;&#xC6A9;&#xD558;&#xC5EC; &#xBE0C;&#xB79C;&#xB4DC;&#xB97C; &#xBC18;&#xC601;&#xD55C;&#xB2E4;.](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2838%29.png)
 
-![Sunset Pink&#xB294;  GS SHOP&#xC758; &#xBCF4;&#xC870; &#xCEEC;&#xB7EC;&#xB85C; &#xC8FC;&#xBB38;&#xACFC; &#xAD00;&#xB828;&#xB41C; &#xD654;&#xBA74;&#xC758; &#xC778;&#xD130;&#xB809;&#xC158; &#xC694;&#xC18C;&#xC5D0; &#xC0AC;&#xC6A9;&#xB41C;&#xB2E4;.](../.gitbook/assets/image%20%28108%29.png)
+![Sunset Pink&#xB294; GS SHOP&#xC758; &#xBCF4;&#xC870; &#xCEEC;&#xB7EC;&#xB85C; &#xC8FC;&#xBB38;&#xACFC; &#xAD00;&#xB828;&#xB41C; &#xD654;&#xBA74;&#xC758; &#xC778;&#xD130;&#xB809;&#xC158; &#xC694;&#xC18C;&#xC5D0; &#xC0AC;&#xC6A9;&#xB41C;&#xB2E4;.](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28108%29.png)
 
 #### Gray Scale
 
-![Gray scale](../.gitbook/assets/image%20%2857%29.png)
+![Gray scale](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2857%29.png)
 
 #### **Alert color**
 
-![Red, Yellow, Green, Blue 4&#xAC00;&#xC9C0;&#xB97C; &#xC0AC;&#xC6A9;&#xD55C;&#xB2E4;.](../.gitbook/assets/image%20%28103%29.png)
+![Red, Yellow, Green, Blue 4&#xAC00;&#xC9C0;&#xB97C; &#xC0AC;&#xC6A9;&#xD55C;&#xB2E4;.](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28103%29.png)
 
 ## Specifications
 
@@ -34,19 +34,19 @@
 
 ### Primary Color
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28143%29.png)
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28132%29.png)
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2869%29.png)
 
 ### Extended color variations
 
 확 팔레트는 빨간색, 노란색, 녹색, 파란으로 구성된. 각 색상은 제품 내에서 의미있는 피드백을 제공하기 위해 사용된다.
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2852%29.png)
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28123%29.png)
 
 ## Usage
 
@@ -54,51 +54,45 @@
 
 ### Actions
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28167%29.png)
 
 ### Messages
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2854%29.png)
 
 ### States
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%281%29.png)
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28105%29.png)
 
 ### Background and Boder and Divider
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28151%29.png)
 
 ### Text
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2856%29.png)
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28129%29.png)
 
 ### Icon Color
 
-![](../.gitbook/assets/image%20%28101%29.png)
-
-
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28101%29.png)
 
 ## Resources
 
 ### Sketch Color Palette
 
-스케치에서 디자인시 컬러를 사용하기 위해서 Sketch Palettes plugin 을 설치한다.  플러그인을 통해서 스케치 컬러 팔레트 파일 \(GDLS\_colors.sketchpalette\)을 불러 오면 스케치의 컬러 피커에 불러와져서 디자인 시 사용할 수 있다.  
+스케치에서 디자인시 컬러를 사용하기 위해서 Sketch Palettes plugin 을 설치한다. 플러그인을 통해서 스케치 컬러 팔레트 파일 \(GDLS\_colors.sketchpalette\)을 불러 오면 스케치의 컬러 피커에 불러와져서 디자인 시 사용할 수 있다.
 
-**Sketchpalette** 
+**Sketchpalette**
 
-{% file src="../.gitbook/assets/gdls\_colors.sketchpalette.zip" caption="스케치 컬러 팔레트" %}
+**Sketch Color Palette 플러그**
 
-**Sketch Color Palette 플러그** 
-
-{% embed url="https://github.com/andrewfiorillo/sketch-palettes" %}
-
-
+{% embed url="https://github.com/andrewfiorillo/sketch-palettes" caption="" %}
 
 ## Color Code
 
@@ -109,7 +103,7 @@
 ```markup
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- Leaf Green -->	
+  <!-- Leaf Green -->    
   <color name="leaf-green-50">#fbfeef</color>
   <color name="leaf-green-100">#eff8c4</color>
   <color name="leaf-green-200">#e5f49b</color>
@@ -409,7 +403,6 @@ Zeplin Json 파
     "#FFFFFF": "white",
     "#000000": "black",
 }
-
 ```
 {% endtab %}
 {% endtabs %}

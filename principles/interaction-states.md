@@ -4,21 +4,19 @@ Interaction states 사용자 상호 작용할 때 구성 요소의 상태를 전
 
 ## Types of States
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2868%29.png)
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2870%29.png)
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2819%29.png)
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2890%29.png)
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%28119%29.png)
 
-![](../.gitbook/assets/image%20%2895%29.png)
-
-
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2895%29.png)
 
 ## Overlay
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/image%20%2866%29.png)
 

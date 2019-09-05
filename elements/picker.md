@@ -108,19 +108,19 @@ LIVE/VOD, OS, Web/App 모든 환경에서 일관된 동영상 Play Rule을 적�
 
 #### Play
 
-![](../.gitbook/assets/untitled-44476ae2-6722-4a02-89c5-53b3636ef9f3%20%281%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/untitled-44476ae2-6722-4a02-89c5-53b3636ef9f3%20%281%29.png)
 
 #### Pause
 
-![](../.gitbook/assets/untitled-915d73f2-0b8a-4468-9a49-357c78f89e38.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/untitled-915d73f2-0b8a-4468-9a49-357c78f89e38.png)
 
 #### Replay
 
-![](../.gitbook/assets/untitled-a6c424b5-af72-4cbd-9ccc-d5efeef8b096%20%281%29.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/untitled-a6c424b5-af72-4cbd-9ccc-d5efeef8b096%20%281%29.png)
 
 #### Info
 
-![](../.gitbook/assets/untitled-35c889b9-889a-40fd-b417-2d122101a313.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/untitled-35c889b9-889a-40fd-b417-2d122101a313.png)
 
 ## Player Type : Full Player
 
@@ -211,9 +211,9 @@ In Player에서 크게보기 버튼 터치 시 가로영상은 Landscape 모드,
 
 #### Landscape
 
-![](../.gitbook/assets/untitled-23c66cda-db22-4679-b7cb-9e14b3cfa4ee.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/untitled-23c66cda-db22-4679-b7cb-9e14b3cfa4ee.png)
 
 #### Portrait
 
-![](../.gitbook/assets/untitled-7fcc03ca-e4a9-46d4-adb6-9e301269a4b5.png)
+![](https://github.com/ozzy4001/book/tree/8fb56279c9f114110b02d5ae2ea13ef481c8e128/.gitbook/assets/untitled-7fcc03ca-e4a9-46d4-adb6-9e301269a4b5.png)
 
